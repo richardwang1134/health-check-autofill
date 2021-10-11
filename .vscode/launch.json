@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "healthcheck_autofill",
+            "name": "health-check-autofill",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "healthcheck_autofill (profile mode)",
+            "name": "health-check-autofill (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
