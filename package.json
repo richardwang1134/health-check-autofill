@@ -1,0 +1,22 @@
+{
+  "name": "health-check-autofill",
+  "version": "1.0.0",
+  "description": "A side project to autofill healthcheck form using selenium and fp-ts",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^16.10.5",
+    "@types/selenium-webdriver": "^4.0.15",
+    "selenium-webdriver": "^4.0.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "tsc && node out\\index.js"
+  },
+  "author": "LC WANG",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardwang1134/health-check-autofill.git"
+  }
+}
